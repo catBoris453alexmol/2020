@@ -1,0 +1,1 @@
+create table services (id int auto_increment, nameEmployee varchar(50), nameService varchar(50), status varchar (50) , date varchar(50) not null, primary key (id)) ;
